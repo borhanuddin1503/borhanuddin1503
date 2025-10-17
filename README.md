@@ -1,3 +1,4 @@
+(https://i.ibb.co.com/XZ2HPv3K/github-cover.png)
 <h1 align="center">Hi 👋, I'm Borhan Uddin!</h1>
 <h3 align="center">Frontend Developer | MERN & Next.js Stack Developer</h3>
 Hi, I'm Borhan Uddin, a passionate Frontend Developer skilled in React, Next.js, and the MERN stack. I love building clean, responsive, and user-friendly web applications. I enjoy learning new technologies and combining creativity with code to deliver meaningful digital experiences.
