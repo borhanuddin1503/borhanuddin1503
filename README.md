@@ -1,3 +1,8 @@
+### Hi there 👋, I am Borhan Uddin!
+#### Frontend Developer | MERN & Next.js Stack Developer
+![Frontend Developer | MERN & Next.js Stack Developer](https://i.ibb.co.com/XZ2HPv3K/github-cover.png)
+
+
 (https://i.ibb.co.com/XZ2HPv3K/github-cover.png)
 <h1 align="center">Hi 👋, I'm Borhan Uddin!</h1>
 <h3 align="center">Frontend Developer | MERN & Next.js Stack Developer</h3>
