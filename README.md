@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borhan Uddin!</h1>
 <h3 align="center">Frontend Developer | MERN & Next.js Stack Developer</h3>
-
+Hi, I'm Borhan Uddin, a passionate Frontend Developer skilled in React, Next.js, and the MERN stack. I love building clean, responsive, and user-friendly web applications. I enjoy learning new technologies and combining creativity with code to deliver meaningful digital experiences.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanuddin1503&label=Profile%20views&color=0e75b6&style=flat" alt="borhanuddin1503" /> </p>
 
 - 🌱 I’m currently learning **Next js**
