@@ -6,11 +6,17 @@
 
 # 💫 About Me:
 Hi, I'm Borhan Uddin, a passionate Frontend Developer skilled in React, Next.js, and the MERN stack. I love building clean, responsive, and user-friendly web applications. I enjoy learning new technologies and combining creativity with code to deliver meaningful digital experiences.
+
+## 📧 Contact Me
+Email: borhanuddin1503@gmail.com
+Phone: +8801641670628
+LinkedIn: https://www.linkedin.com/in/borhan-uddin-8a4867349/
+
+---
+
 - 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-flame-three-33.vercel.app/](https://portfolio-flame-three-33.vercel.app/)
-
-- 📫 How to reach me **borhanuddin1503@gmail.com**
 
 
 ## 🌐 Socials:
